@@ -1,5 +1,10 @@
 # react-find-deep-with-hoc
 
+[![npm version](https://badge.fury.io/js/react-find-deep-with-hoc.svg)][npm]
+[![npm downloads](https://img.shields.io/npm/dw/react-find-deep-with-hoc?logo=npm&label=NPM%20downloads&cacheSeconds=3600)][npm]
+[![GitHub license](https://img.shields.io/github/license/sjwall/react-find-deep-with-hoc)][license]
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)][pr]
+
 React find deep utility that also finds the HOCs.
 
 ## Installation
@@ -51,3 +56,7 @@ MIT
 ---
 
 Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
+
+[license]: https://github.com/sjwall/react-find-deep-with-hoc/blob/main/LICENSE
+[npm]: https://www.npmjs.com/package/react-find-deep-with-hoc
+[pr]: http://makeapullrequest.com
