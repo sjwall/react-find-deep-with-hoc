@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rebuildTree builds new tree 1`] = `
+<View>
+  <View>
+    <Text>
+      World
+    </Text>
+  </View>
+</View>
+`;

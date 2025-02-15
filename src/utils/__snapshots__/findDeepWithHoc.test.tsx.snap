@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`findDeepWithHoc finds deep 1`] = `
+<View>
+  <View>
+    <Text>
+      Hello
+       World
+    </Text>
+  </View>
+</View>
+`;
